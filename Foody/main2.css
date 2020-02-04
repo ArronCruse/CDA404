@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#Foody{
+    color: coral;
+}
+
+nav ul li{
+    display: inline;
+}
+
+#Hello{
+    color: coral;
+}
+
+#Asmart{
+    font-size: 30pt;
+    width: 500px
+}
+
+button{
+    color: white;
+    border-radius: 25px;
+    background: green;
+     padding: 1px;
+    width: 150px;
+    height: 15px;}
+
+#Big_box{
+    width:300px;
+    padding:50px;
+    box-shadow: 5px 10px #888888;
+}
+
+#Bottom{
+    display: inline;
+}
+
+#box1{
+    width: 300px;
+    padding:50px;
+    box-shadow: 5px 10px #888888
+}
+
+#box2{
+    width: 300px;
+    padding:50px;
+    box-shadow: 5px 10px #888888
+}
+
+#box3{
+    width: 300px;
+    padding:50px;
+    box-shadow: 5px 10px #888888
+}
+
